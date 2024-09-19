@@ -1,0 +1,13 @@
+- TLDR Section
+
+- Proposal Summary
+
+Passlock is an application designed to allow users to store multiple usernames and passwords from different websites/applications in a single page. Users are able to manage stored passwords at any time.
+
+- Technical Details
+
+Username and password to be inserted in two different fields and saved by clicking a save button. The user can then access their data, edit and deleted it. Data inserted will be stored using MongoDB. UI to be created using Next.js and page to be deployed via Github pages.
+
+- Benefits/Potential Wins
+
+To have your passwords saved in one application.
